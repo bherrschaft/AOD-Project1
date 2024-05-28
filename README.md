@@ -2,3 +2,4 @@
 # **_Saba Ahmed_** I am working on head 2 and figuring things out ![Snapchat](https://engage.sinch.com/sites/default/files/styles/large/public/image/2023-12/Was%20ist%20Snapchat.jpg.webp?itok=rZHvl5PD)
 # **_Nich Holcomb_** I learned about managing branches with Git & GitHub. ![Dog](https://i.ibb.co/txXwsvk/rotti.jpg)
 # **_Austin Murphy_** I learned how to fix the terminal error when a message is not included when you use "git commit". ![Blue Car](https://static.cargurus.com/images/forsale/2021/08/23/19/48/1995_ford_taurus-pic-1793843131960636541-1024x768.jpeg)
+#  **_Nicholas Moppert_** I learned how to navigate GitHub repositorys and merge/rebase text in files in real time with a partner. ![hotdog](https://img.freepik.com/premium-photo/hot-dog-sausage-hd-8k-wallpaper-stock-photographic-image_915071-60639.jpg)
